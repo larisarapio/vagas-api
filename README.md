@@ -195,3 +195,5 @@ Esse projeto é usado pela [SouJunior](https://github.com/SouJunior).
 ---
 
 ### [Voltar ao 🔝](#linkedin_backend)
+#   d i a g r a m a - c l a s s e  
+ 
